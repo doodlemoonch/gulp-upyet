@@ -1,0 +1,31 @@
+{
+  "name": "gulp-upyet",
+  "version": "0.0.2",
+  "description": "gulp task to check whether a host is up and ready for testing/whatever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doodlemoonch/isitupyet.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "testing",
+    "ping",
+    "up"
+  ],
+  "author": "doodlemoonch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doodlemoonch/isitupyet/issues"
+  },
+  "homepage": "https://github.com/doodlemoonch/isitupyet#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "gulp-util": "^3.0.7",
+    "request": "^2.72.0"
+  }
+}
