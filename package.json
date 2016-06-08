@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doodlemoonch/isitupyet.git"
+    "url": "git+https://github.com/doodlemoonch/gulp-upyet.git"
   },
   "keywords": [
     "gulp",
@@ -20,9 +20,9 @@
   "author": "doodlemoonch",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/doodlemoonch/isitupyet/issues"
+    "url": "https://github.com/doodlemoonch/gulp-upyet/issues"
   },
-  "homepage": "https://github.com/doodlemoonch/isitupyet#readme",
+  "homepage": "https://github.com/doodlemoonch/gulp-upyet#readme",
   "dependencies": {
     "async": "^1.5.2",
     "gulp-util": "^3.0.7",
