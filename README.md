@@ -6,7 +6,7 @@ Gulp task meant to be used as a prerequisite for running tests. It requests agai
 ## Installation
 
 ```
-npm install isitupyet --save-dev
+npm install gulp-upyet --save-dev
 ```
 
 ## Usage
