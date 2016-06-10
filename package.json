@@ -1,6 +1,6 @@
 {
   "name": "gulp-upyet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "gulp task to check whether a host is up and ready for testing/whatever",
   "main": "index.js",
   "scripts": {
